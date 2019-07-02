@@ -1,0 +1,11 @@
+{
+  "name": "anon-bot",
+  "version": "1.0.0",
+  "description": "Bot that allows to send messages anonymously",
+  "main": "bot.js",
+  "author": "PLUS PLUS",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
